@@ -1,8 +1,8 @@
 # Preview
 <div align="center">
-<img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/864369a5-d1ae-4f7f-9a94-18cfd241dd77" />
-<img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/140d1657-8e4b-4774-8649-dde9743c32c0" />
-<img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/ee4eb17e-582b-4a72-a5f8-93cc42cc8488" />
+<img width="1293" height="711" alt="home" src="https://github.com/user-attachments/assets/594ae332-c43f-4f85-8de0-3f09c4639bfd" />
+<img width="1283" height="721" alt="about us" src="https://github.com/user-attachments/assets/140d1657-8e4b-4774-8649-dde9743c32c0" />
+<img width="1283" height="721" alt="recipes" src="https://github.com/user-attachments/assets/ee4eb17e-582b-4a72-a5f8-93cc42cc8488" />
 </div>
 # Mangan Tako PHP Website Project
 
