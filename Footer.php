@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Mangan Tako</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+	
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+	<link rel="stylesheet" href="Styles/style-1.css">
+	<link rel="icon" href="Images/image-icon.ico" type="image/x-icon" sizes="32x32">
+
+	<!-- OFFLINE -->
+	<script src="../PHPMIDTERM/bootstrap/js/bootstrap.js"></script>
+</head>
+<body>
+	<footer class="bg-black text-white text-center py-3 ">
+			<div class="container">
+				<p class="m-0">Copyright © 2024 Mangan-Tako.com. All Rights Reserved</p>
+			</div>
+	</footer>
+</body>
